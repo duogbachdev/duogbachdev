@@ -4,7 +4,7 @@ Hi there, I am Duog Bach, now I'm a student, my major is Information Technology,
 
 <br/><br/>
 *__My info__*
-* Real name: 
+* Real name: DO DUONG BACH
 * D.O.B: *October 22th, 2003*
 * I like: __Play guitar__, __Listen to music__, __Watch films - youtube__, __Read book__, __game__, __Coding__, etc.
 

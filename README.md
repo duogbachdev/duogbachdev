@@ -72,14 +72,6 @@ Hi there, I am Duog Bach, now I'm a student, my major is Information Technology,
 ---
 
 ## 🚀 My stats
-<div align="center">
-  <a href = "https://discord.com/users/894890678432178176">
-    <img src = "https://lanyard.cnrad.dev/api/894890678432178176" alt="Discord"/>
-  </a>
-  <br/>
-  <img src = "![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duogbachdev&theme=monokai)"/>
-  <a href="https://app.daily.dev/duogbach"><img src="https://api.daily.dev/devcards/7640467ad4344b319c41a53e22651de4.png?r=ktr" width="400" alt="Duog Bach's Dev Card"/></a>
-</div>
- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev&show_icons=true)  
 ![](https://komarev.com/ghpvc/?username=duogbach&color=3DDC84)
 

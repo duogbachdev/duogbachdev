@@ -74,6 +74,6 @@ Hi there, I am Duog Bach, now I'm a student, my major is Information Technology,
 ---
 
 ## 🚀 My stats
-https://github-readme-stats.vercel.app/api/top-langs/?username=duogbachdev&layout=compact&ttheme=algolia&border_radius=20
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=duogbachdev&color=3DDC84)

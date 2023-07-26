@@ -102,6 +102,6 @@ _**My info**_
 
 ## 📑 My Favorites Quote 📑
 
-[![DuogBachDev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20new%20everyday%20not%20the%20copycat%20of%20yesterday%20!%20Sau%20m%E1%BB%99t%20ng%C3%A0y%20!%20Ch%C3%BAng%20ta%20%C4%91%C3%A3%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%81u%20g%C3%AC%20m%E1%BB%9Bi%20?&author=duogbachdev)]
+![DuogBachDev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20new%20everyday%20not%20the%20copycat%20of%20yesterday%20!%20Sau%20m%E1%BB%99t%20ng%C3%A0y%20!%20Ch%C3%BAng%20ta%20%C4%91%C3%A3%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%81u%20g%C3%AC%20m%E1%BB%9Bi%20?&author=duogbachdev)
 
 ![](https://komarev.com/ghpvc/?username=duogbachdev&color=3DDC84)

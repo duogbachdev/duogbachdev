@@ -1,19 +1,35 @@
-<img alt="banner" style="width:100vw" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
+<img alt="banner" style="width:100vw" src="./img/duogbachdev.gif">
 
 ## 🌸 About me
+
 Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a passion for web development. I really like what I do now. My job is to build your website that works and is user-friendly but still attractive. In addition, I give your product a personal touch and make sure the site is attention-grabbing and easy to use. My goal is to convey your message and identity in the most creative way. If you are interested in hiring me, please contact me.
 <br/>
 
 <br/><br/>
-*__My info__*
-* Real name: DO DUONG BACH
-* D.O.B: *October 22th, 2003*
-* I like: __Play guitar__, __Listen to music__, __Watch films - youtube__, __Read book__, __game__, __Coding__, etc.
+_**My info**_
+
+- Real name: DO DUONG BACH
+- D.O.B: _October 22th, 2003_
+- I like: **Play guitar**, **Listen to music**, **Watch films - youtube**, **Read book**, **game**, **Coding**, etc.
 
 ---
+
+## 👽 Where to find me 👽
+
+<!-- https://icons8.com -->
+
+<a href="https://facebook.com/duogbachdev" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duogbachdev-facebook" /> </a>
+<a href="https://www.youtube.com/@duogbach" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="duogbachdev-youtube" /> </a>
+<a href="https://www.linkedin.com/" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duogbachdev-linkedin" />
+</a>
+<a href="https://instagram.com/_22th.oct" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duogbachdev-instagram" /> </a>
+<a href="mailto:contact.duogbachdev@gmail.com" target="top"> <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duogbachdev-email" />
+</a>
+
 ## 🥪 My "sandwich" stack
 
 ### Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +44,7 @@ Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a pass
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks, Libraries and Tools
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -42,6 +59,7 @@ Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a pass
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,15 +68,18 @@ Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a pass
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Hosting/SaaS
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Servers
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### IDEs/Editors
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
@@ -67,15 +88,22 @@ Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a pass
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### Operating System
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 ## 🚀 My stats
+
 ![DuogBach's GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duogbachdev&layout=compact&theme=algolia&border_radius=20)
+
+## 📑 My Favorites Quote 📑
+
+![DuogBachDev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20new%20everyday%20not%20the%20copycat%20of%20yesterday%20!!!&author=duogbachdev)
 
 ![](https://komarev.com/ghpvc/?username=duogbachdev&color=3DDC84)

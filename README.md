@@ -3,8 +3,6 @@
 ## 🌸 About me
 
 Hi everybody! My name is Do Duong Bach. I am now a 3rd year student, with a passion for web development. I really like what I do now. My job is to build your website that works and is user-friendly but still attractive. In addition, I give your product a personal touch and make sure the site is attention-grabbing and easy to use. My goal is to convey your message and identity in the most creative way. If you are interested in hiring me, please contact me.
-<br/>
-
 <br/><br/>
 _**My info**_
 

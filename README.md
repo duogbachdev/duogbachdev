@@ -96,7 +96,7 @@ _**My info**_
 
 ## 🚀 My stats
 
-![DuogBach's GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev&count_private=true&show_icons=true&theme=algolia&border_radius=20)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duogbachdev&layout=compact&theme=algolia&border_radius=20)
 

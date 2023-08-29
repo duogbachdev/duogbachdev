@@ -98,6 +98,6 @@ _**My info**_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duogbachdev&count_private=true&show_icons=true&theme=algolia&border_radius=20)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duogbachdev&layout=compact&theme=algolia&border_radius=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duogbachdev&layout=compact&theme=algolia)
 
 ![](https://komarev.com/ghpvc/?username=duogbachdev&color=3DDC84)
